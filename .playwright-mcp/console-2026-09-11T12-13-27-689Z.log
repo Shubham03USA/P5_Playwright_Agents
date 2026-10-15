@@ -1,0 +1,2 @@
+[     399ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://www.saucedemo.com/:0
+[   12140ms] [LOG] 200 https://www.saucedemo.com/ @ https://www.saucedemo.com/assets/index-D3OxT1jE.js:1
